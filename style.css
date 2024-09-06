@@ -1,0 +1,64 @@
+body{
+  color: #575757;
+  font-size: 18px;
+  font-weight: normal;
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+.banner img{
+  height: 700px;
+  width: 100%;
+}
+.banner{
+  margin: 0px 0px 50px 0px;
+}
+.container, hr{
+  width: 60%;
+  margin: 0 auto;
+}
+h1{
+  font-size: 50px;
+  font-weight: bold;
+  margin: 0 0 20px 0;
+}
+h3 {
+  color: rgb(189, 186, 186);
+  font-size: 25px;
+  font-weight: normal;
+}
+.container img{
+  width: 70px;
+  border-radius: 100%;
+}
+.auth{
+  display: flex;
+  align-items: center;
+  padding: 0px 0;
+}
+.author{
+  display: fixed;
+  width: 100%;
+}
+.image{
+  width: 10%;
+}
+.part_author{
+  display: flex;
+  align-content: space-between;
+}
+.part_author div{
+  margin: 5px;
+}
+.part_author p{
+  font-size: 14px;
+  color: rgb(157, 154, 154);
+}
+
+h5{
+  color: rgb(189, 186, 186);
+}
+
+.container p{
+  text-align: justify;
+  line-height: 1.5;
+}
